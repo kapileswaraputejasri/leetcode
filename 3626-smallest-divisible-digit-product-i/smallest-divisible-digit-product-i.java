@@ -5,15 +5,16 @@ class Solution {
             int pro=1;
             int temp=i;
             while(temp>0)
-           {
-            int digit=temp%10;
-            pro*=digit;
-            temp/=10;
-           }
+            {
+                int digit=temp%10;
+                pro*=digit;
+                temp/=10;
+            }
             if(pro%t==0)
             {
                 return i;
             }
+            
         }return n;
     }
 }
