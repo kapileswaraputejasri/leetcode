@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/kapileswaraputejasri/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/kapileswaraputejasri/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapileswaraputejasri/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3731-find-missing-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/kapileswaraputejasri/leetcode/tree/master/0561-array-partition) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapileswaraputejasri/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/kapileswaraputejasri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapileswaraputejasri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapileswaraputejasri/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
 | ------- |
