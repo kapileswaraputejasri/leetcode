@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kapileswaraputejasri/leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kapileswaraputejasri/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1572-matrix-diagonal-sum](https://github.com/kapileswaraputejasri/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/kapileswaraputejasri/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/kapileswaraputejasri/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0566-reshape-the-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/kapileswaraputejasri/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
