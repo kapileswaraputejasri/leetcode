@@ -1,6 +1,6 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-       int[] counter=new int[128];
+         int[] counter=new int[128];
        for(final char ch:magazine.toCharArray())
        {
         ++counter[ch];
