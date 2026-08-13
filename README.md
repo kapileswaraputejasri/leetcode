@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/kapileswaraputejasri/leetcode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/kapileswaraputejasri/leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/kapileswaraputejasri/leetcode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/kapileswaraputejasri/leetcode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/kapileswaraputejasri/leetcode/tree/master/0561-array-partition) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapileswaraputejasri/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kapileswaraputejasri/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/kapileswaraputejasri/leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/kapileswaraputejasri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/kapileswaraputejasri/leetcode/tree/master/0771-jewels-and-stones) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
