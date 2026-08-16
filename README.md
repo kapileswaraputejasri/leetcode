@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/kapileswaraputejasri/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/kapileswaraputejasri/leetcode/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/kapileswaraputejasri/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/kapileswaraputejasri/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/kapileswaraputejasri/leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kapileswaraputejasri/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kapileswaraputejasri/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/kapileswaraputejasri/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
