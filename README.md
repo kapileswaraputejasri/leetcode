@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kapileswaraputejasri/leetcode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/kapileswaraputejasri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kapileswaraputejasri/leetcode/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/kapileswaraputejasri/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kapileswaraputejasri/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kapileswaraputejasri/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/kapileswaraputejasri/leetcode/tree/master/1672-richest-customer-wealth) |
