@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kapileswaraputejasri/leetcode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/kapileswaraputejasri/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/kapileswaraputejasri/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/kapileswaraputejasri/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -289,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kapileswaraputejasri/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
