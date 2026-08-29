@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/kapileswaraputejasri/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kapileswaraputejasri/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kapileswaraputejasri/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/kapileswaraputejasri/leetcode/tree/master/0383-ransom-note) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kapileswaraputejasri/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/kapileswaraputejasri/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kapileswaraputejasri/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kapileswaraputejasri/leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/kapileswaraputejasri/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/kapileswaraputejasri/leetcode/tree/master/0561-array-partition) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kapileswaraputejasri/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kapileswaraputejasri/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/kapileswaraputejasri/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kapileswaraputejasri/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
