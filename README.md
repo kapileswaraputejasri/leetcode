@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/kapileswaraputejasri/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapileswaraputejasri/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kapileswaraputejasri/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kapileswaraputejasri/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kapileswaraputejasri/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kapileswaraputejasri/leetcode/tree/master/0069-sqrtx) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
