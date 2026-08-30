@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/kapileswaraputejasri/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/kapileswaraputejasri/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapileswaraputejasri/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kapileswaraputejasri/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/kapileswaraputejasri/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1927-sum-game](https://github.com/kapileswaraputejasri/leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
 |  |
