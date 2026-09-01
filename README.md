@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kapileswaraputejasri/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/kapileswaraputejasri/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0819-most-common-word](https://github.com/kapileswaraputejasri/leetcode/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/kapileswaraputejasri/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/kapileswaraputejasri/leetcode/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/kapileswaraputejasri/leetcode/tree/master/0819-most-common-word) |
 | [1108-defanging-an-ip-address](https://github.com/kapileswaraputejasri/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kapileswaraputejasri/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-goal-parser-interpretation](https://github.com/kapileswaraputejasri/leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kapileswaraputejasri/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/kapileswaraputejasri/leetcode/tree/master/0561-array-partition) |
+| [0819-most-common-word](https://github.com/kapileswaraputejasri/leetcode/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapileswaraputejasri/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kapileswaraputejasri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kapileswaraputejasri/leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/kapileswaraputejasri/leetcode/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/kapileswaraputejasri/leetcode/tree/master/0819-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kapileswaraputejasri/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
