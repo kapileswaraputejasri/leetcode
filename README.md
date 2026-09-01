@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kapileswaraputejasri/leetcode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/kapileswaraputejasri/leetcode/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/kapileswaraputejasri/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/kapileswaraputejasri/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kapileswaraputejasri/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kapileswaraputejasri/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kapileswaraputejasri/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/kapileswaraputejasri/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/kapileswaraputejasri/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapileswaraputejasri/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/kapileswaraputejasri/leetcode/tree/master/0645-set-mismatch) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kapileswaraputejasri/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kapileswaraputejasri/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kapileswaraputejasri/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/kapileswaraputejasri/leetcode/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/kapileswaraputejasri/leetcode/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kapileswaraputejasri/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/kapileswaraputejasri/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/kapileswaraputejasri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kapileswaraputejasri/leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/kapileswaraputejasri/leetcode/tree/master/0771-jewels-and-stones) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kapileswaraputejasri/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/0658-find-k-closest-elements) |
 ## String Matching
 |  |
@@ -385,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kapileswaraputejasri/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
