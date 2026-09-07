@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kapileswaraputejasri/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kapileswaraputejasri/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/kapileswaraputejasri/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kapileswaraputejasri/leetcode/tree/master/0053-maximum-subarray) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kapileswaraputejasri/leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/kapileswaraputejasri/leetcode/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/kapileswaraputejasri/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kapileswaraputejasri/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kapileswaraputejasri/leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/kapileswaraputejasri/leetcode/tree/master/0125-valid-palindrome) |
