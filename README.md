@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapileswaraputejasri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/kapileswaraputejasri/leetcode/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/kapileswaraputejasri/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1140-stone-game-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/1140-stone-game-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kapileswaraputejasri/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/kapileswaraputejasri/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/kapileswaraputejasri/leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kapileswaraputejasri/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kapileswaraputejasri/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/kapileswaraputejasri/leetcode/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/kapileswaraputejasri/leetcode/tree/master/0819-most-common-word) |
+| [1051-height-checker](https://github.com/kapileswaraputejasri/leetcode/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapileswaraputejasri/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -402,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kapileswaraputejasri/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kapileswaraputejasri/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
