@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kapileswaraputejasri/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kapileswaraputejasri/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kapileswaraputejasri/leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/kapileswaraputejasri/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kapileswaraputejasri/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/kapileswaraputejasri/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kapileswaraputejasri/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kapileswaraputejasri/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kapileswaraputejasri/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/kapileswaraputejasri/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kapileswaraputejasri/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kapileswaraputejasri/leetcode/tree/master/0217-contains-duplicate) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kapileswaraputejasri/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kapileswaraputejasri/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kapileswaraputejasri/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kapileswaraputejasri/leetcode/tree/master/0205-isomorphic-strings) |
