@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kapileswaraputejasri/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kapileswaraputejasri/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/kapileswaraputejasri/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/kapileswaraputejasri/leetcode/tree/master/0441-arranging-coins) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kapileswaraputejasri/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kapileswaraputejasri/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapileswaraputejasri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kapileswaraputejasri/leetcode/tree/master/1406-stone-game-iii) |
@@ -522,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kapileswaraputejasri/leetcode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kapileswaraputejasri/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kapileswaraputejasri/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
