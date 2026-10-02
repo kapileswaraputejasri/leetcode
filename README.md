@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapileswaraputejasri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kapileswaraputejasri/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/kapileswaraputejasri/leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/kapileswaraputejasri/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapileswaraputejasri/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kapileswaraputejasri/leetcode/tree/master/0169-majority-element) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kapileswaraputejasri/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kapileswaraputejasri/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kapileswaraputejasri/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/kapileswaraputejasri/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kapileswaraputejasri/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kapileswaraputejasri/leetcode/tree/master/0242-valid-anagram) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kapileswaraputejasri/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kapileswaraputejasri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/kapileswaraputejasri/leetcode/tree/master/0139-word-break) |
 | [1140-stone-game-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kapileswaraputejasri/leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kapileswaraputejasri/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kapileswaraputejasri/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/kapileswaraputejasri/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/kapileswaraputejasri/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kapileswaraputejasri/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kapileswaraputejasri/leetcode/tree/master/0217-contains-duplicate) |
@@ -528,4 +532,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kapileswaraputejasri/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/kapileswaraputejasri/leetcode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kapileswaraputejasri/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kapileswaraputejasri/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
