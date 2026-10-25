@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/kapileswaraputejasri/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1122-relative-sort-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/kapileswaraputejasri/leetcode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/kapileswaraputejasri/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kapileswaraputejasri/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/kapileswaraputejasri/leetcode/tree/master/1406-stone-game-iii) |
@@ -396,11 +397,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kapileswaraputejasri/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kapileswaraputejasri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapileswaraputejasri/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/kapileswaraputejasri/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/kapileswaraputejasri/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/kapileswaraputejasri/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/kapileswaraputejasri/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/kapileswaraputejasri/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/kapileswaraputejasri/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kapileswaraputejasri/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kapileswaraputejasri/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/kapileswaraputejasri/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/kapileswaraputejasri/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Ternary Search
 |  |
