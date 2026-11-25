@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kapileswaraputejasri/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/kapileswaraputejasri/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/kapileswaraputejasri/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/kapileswaraputejasri/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kapileswaraputejasri/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## String
 |  |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kapileswaraputejasri/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapileswaraputejasri/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kapileswaraputejasri/leetcode/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/kapileswaraputejasri/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapileswaraputejasri/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kapileswaraputejasri/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapileswaraputejasri/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3934-smallest-unique-subarray](https://github.com/kapileswaraputejasri/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -718,4 +721,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kapileswaraputejasri/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kapileswaraputejasri/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kapileswaraputejasri/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kapileswaraputejasri/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
