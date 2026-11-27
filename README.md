@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/kapileswaraputejasri/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3934-smallest-unique-subarray](https://github.com/kapileswaraputejasri/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kapileswaraputejasri/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4020-elevator-requests-i](https://github.com/kapileswaraputejasri/leetcode/tree/master/4020-elevator-requests-i) |
 ## String
 |  |
 | ------- |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/kapileswaraputejasri/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kapileswaraputejasri/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kapileswaraputejasri/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [4020-elevator-requests-i](https://github.com/kapileswaraputejasri/leetcode/tree/master/4020-elevator-requests-i) |
 ## Backtracking
 |  |
 | ------- |
